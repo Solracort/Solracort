@@ -14,6 +14,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solracort&show_icons=true&locale=en" alt="solracort" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solracort&" alt="solracort" /></p>
 
 
